@@ -1,3 +1,7 @@
+# Local release scripts
+publicar.ps1
+publicar.bat
+
 # OS generated files
 Thumbs.db
 Thumbs.db:encryptable
