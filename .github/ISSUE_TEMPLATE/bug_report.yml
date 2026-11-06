@@ -1,0 +1,48 @@
+name: 🐛 Relatório de Bug / Bug Report
+description: Encontrou um problema ou erro no RefCanvas? Relate aqui.
+title: "[BUG]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Obrigado por ajudar a melhorar o RefCanvas! Por favor, preencha os campos abaixo.
+  - type: input
+    id: version
+    attributes:
+      label: Versão do RefCanvas
+      description: Qual versão do RefCanvas você está usando? (Ex: v1.0.0)
+      placeholder: v1.0.0
+    validations:
+      required: true
+  - type: input
+    id: os
+    attributes:
+      label: Sistema Operacional
+      description: Ex: Windows 11 64-bit / Windows 10 Pro
+      placeholder: Windows 11 (64-bit)
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Descrição do Problema
+      description: Explique o que aconteceu de forma clara e detalhada.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Passos para Reproduzir
+      description: Como reproduzir o problema?
+      placeholder: |
+        1. Abrir o RefCanvas
+        2. Arrastar uma imagem PNG
+        3. Pressionar Ctrl+Shift+G
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Comportamento Esperado
+      description: O que deveria ter acontecido?

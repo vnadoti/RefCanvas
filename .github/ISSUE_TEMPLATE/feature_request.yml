@@ -1,0 +1,28 @@
+name: 💡 Sugestão de Recurso / Feature Request
+description: Tem uma ideia para tornar o RefCanvas ainda melhor? Compartilhe conosco!
+title: "[IDEA]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Adoramos sugestões da comunidade! Conte-nos sua ideia.
+  - type: textarea
+    id: idea
+    attributes:
+      label: Qual é a sua sugestão?
+      description: Descreva a funcionalidade que você gostaria de ver no RefCanvas.
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Qual problema isso resolve no seu fluxo de trabalho?
+      description: Ex: "Facilitaria quando estou modelando no Blender e preciso de..."
+    validations:
+      required: false
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternativas consideradas
+      description: Você já usa algum outro aplicativo que faz isso?
