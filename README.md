@@ -7,7 +7,7 @@
 
 **Uma alternativa moderna, rápida e gratuita ao PureRef para Windows.**
 
-[![GitHub Release](https://img.shields.io/github/v/release/vnadoti/RefCanvas?color=7c3aed&label=Versão&style=for-the-badge)](https://github.com/vnadoti/RefCanvas/releases/latest)
+[![GitHub Release](https://img.shields.io/github/v/release/vnadoti/RefCanvas?color=4ADE80&label=Versão&style=for-the-badge)](https://github.com/vnadoti/RefCanvas/releases/latest)
 [![Windows](https://img.shields.io/badge/Plataforma-Windows%2010%20%7C%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/vnadoti/RefCanvas/releases/latest)
 [![License](https://img.shields.io/badge/Licen%C3%A7a-Freeware%20Gr%C3%A1tis-10b981?style=for-the-badge)](LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/vnadoti/RefCanvas?style=for-the-badge&logo=github&color=eab308)](https://github.com/vnadoti/RefCanvas/stargazers)
@@ -15,7 +15,7 @@
 <br/>
 
 <a href="https://github.com/vnadoti/RefCanvas/releases/latest">
-  <img src="https://img.shields.io/badge/📥%20BAIXAR%20AGORA%20GRÁTIS-Windows%20(Instalador%20.exe)-7c3aed?style=for-the-badge&labelColor=1e1b4b" height="42" />
+  <img src="https://img.shields.io/badge/📥%20BAIXAR%20AGORA%20GRÁTIS-Windows%20(Instalador%20.exe)-4ADE80?style=for-the-badge&labelColor=0B0B0D" height="42" />
 </a>
 
 <br/><br/>

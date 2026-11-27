@@ -1,12 +1,12 @@
-## 🚀 RefCanvas v1.0.0 — Lançamento Oficial
+## 🎨 RefCanvas v1.1.0 — Nova identidade visual
 
-Obrigado por usar o RefCanvas!
+O RefCanvas agora faz parte da mesma família visual do DAW Manager e do MadBass.
 
-### ✨ Destaques:
-- **Modo Fantasma (Click-Through)**: Sobreponha referências em cima do Blender/Photoshop com atalho `Ctrl+Shift+G`.
-- **Smart Auto-Pack**: Organize todas as imagens em grid com `Ctrl+P`.
-- **Paleta de Cores & Conta-Gotas**: Extração de cores e cópia HEX com tecla `I`.
-- **Modo Foco**: Interface limpa e minimalista pressionando `Tab`.
-- **Ultra Leve**: Consumo mínimo de memória RAM e GPU (WebView2 nativo).
+### ✨ Novidades
+- **Tema escuro novo**: fundos mais profundos, painéis em grafite e destaque verde.
+- **Cor de destaque**: escolha em *Configurações → Cor de destaque* entre Verde, Limão, Ciano, Âmbar, Violeta e Rosa.
+- **Ícone novo**: quadrado com degradê verde → limão e traço preto grosso, no `.exe`, na barra de tarefas, nos atalhos e no instalador.
 
-📥 **Para instalar:** Baixe o arquivo **RefCanvas Setup.exe** abaixo e execute.
+> Se algum atalho ainda mostrar o ícone antigo depois de atualizar, ele troca ao reiniciar o Explorer ou o PC.
+
+📥 **Para instalar ou atualizar:** baixe o **RefCanvas Setup.exe** abaixo e execute. Ele instala por cima da versão anterior.
